@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">App01_HelloWord</string>
+    <string name="Texto1">Olá, eu sou Heitor Soares</string>
+    <string name="Texto2">Aluno de Desenvolvimento Mobile</string>
+    <string name="Texto3">Whatsapp</string>
+    <string name="Texto4">Instagram</string>
+    <string name="Texto5">Github</string>
+</resources>
